@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Shudu:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Shudu_jar</output-path>
-    <root id="archive" name="Shudu.jar">
-      <element id="module-output" name="Shudu" />
-    </root>
-  </artifact>
-</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Shudu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BIN/jar/Shudu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
