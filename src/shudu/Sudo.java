@@ -6,8 +6,7 @@ import java.io.*;
 
 public class Sudo {
     public static void main(String[] args) throws ParseException {
-
-
+        
         Options ops = new Options();
         ops.addOption("h", false, "help");
         ops.addOption("c", true, "生成数独");
